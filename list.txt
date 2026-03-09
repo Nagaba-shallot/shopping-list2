@@ -1,8 +1,8 @@
-busuicts
-pop popcon 
+biscuits
+popcon 
 chocolates
 cookies
-yourghut
+yorghut
 sugar
 beans
 vegetable
@@ -10,3 +10,11 @@ rice
 maize floor
 sal
 cooking oil
+bar soap
+detergent
+gloves
+scouring pad
+vim
+mop
+brush
+Harpic
