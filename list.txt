@@ -3,3 +3,10 @@ pop popcon
 chocolates
 cookies
 yourghut
+sugar
+beans
+vegetable
+rice
+maize floor
+sal
+cooking oil
