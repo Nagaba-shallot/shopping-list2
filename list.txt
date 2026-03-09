@@ -1,6 +1,11 @@
 biscuits
 popcon 
 chocolates
+sweets
+crisps
+chevda
+ringoz
+ice cream
 cookies
 yorghut
 sugar
